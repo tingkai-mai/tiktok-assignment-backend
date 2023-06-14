@@ -43,8 +43,11 @@ Chatrooms are defined in key:value pairs. For example, a chatroom between the pe
 ```
 
 2. `/api/push` pushes a message to a chat room.
+
+```json
 {
     "chat": "jack:marcus",
     "text": "Hello how are you",
     "sender": "jack"
 }
+```
