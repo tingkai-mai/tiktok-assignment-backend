@@ -23,10 +23,6 @@ Check if it's running:
 curl localhost:8080/ping
 ```
 
-## Introduction
-
-This was written with the help of [this guide](https://o386706e92.larksuite.com/docx/QE9qdhCmsoiieAx6gWEuRxvWsRc). However, I made some further changes to the code, with the best of my ability.
-
 Chatrooms are defined in key:value pairs. For example, a chatroom between the people "jack" and "marcus" would be "jack:marcus".
 
 ## Available Endpoints
